@@ -31,8 +31,16 @@ Senior Software Test Automation Engineer | SDET | DevOps | Platform Engineer
 
 ## Featured Projects
 
-### automation-framework-demo
-Modern Playwright Test Automation Framework
+### Automation Framework Demo v1.0.0
+Enterprise-grade Playwright automation framework featuring:
+
+- UI Testing
+- API Testing
+- Dockerized Execution
+- GitHub Actions CI/CD
+- CodeQL Security Analysis
+- Secret Scanning
+- Dependabot
 
 ### terraform-cloud-lab
 Infrastructure as Code using Terraform and AWS
