@@ -1,55 +1,50 @@
 # Hugo Torres Coronado
 
-Senior Software Test Automation Engineer | SDET | DevOps | Platform Engineer
+Senior Software Test Automation Engineer | SDET | DevOps Engineer | Platform Engineer
 
-## About Me
+Building automation frameworks, cloud infrastructure, and cloud-native platforms.
 
-20+ years of experience in:
+## 🚀 Featured Repositories
 
-- Quality Engineering
-- Test Automation
-- DevOps
-- Cloud Infrastructure
-- Terraform
-- AWS
-- Azure
-- Kubernetes
-- GitHub Actions
+### 🔹 Automation Framework Demo
+Playwright, Selenium, Cucumber, API Testing, Docker, GitHub Actions
 
-## Core Technologies
+➡️ https://github.com/hugotorrescoronado/automation-framework-demo
+
+### 🔹 Terraform Cloud Lab
+AWS, Terraform, EKS, ALB, Auto Scaling, Multi-AZ RDS, DevSecOps
+
+➡️ https://github.com/hugotorrescoronado/terraform-cloud-lab
+
+### 🔹 Kubernetes Platform Lab
+Kubernetes, Helm, ArgoCD, GitOps, Prometheus, Grafana
+
+➡️ https://github.com/hugotorrescoronado/kubernetes-platform-lab
+
+---
+
+## 🛠️ Core Technologies
 
 - Playwright
 - Selenium
-- Terraform
-- Docker
-- Kubernetes
-- ArgoCD
 - AWS
-- Python
-- PowerShell
-- Bash
+- Terraform
+- Kubernetes
+- Docker
+- Helm
+- ArgoCD
+- GitHub Actions
+- Prometheus
+- Grafana
 
-## Featured Projects
+---
 
-### Automation Framework Demo v1.0.0
-Enterprise-grade Playwright automation framework featuring:
+## 🎯 Focus Areas
 
-- UI Testing
-- API Testing
-- Dockerized Execution
-- GitHub Actions CI/CD
-- CodeQL Security Analysis
-- Secret Scanning
-- Dependabot
-
-### terraform-cloud-lab
-Infrastructure as Code using Terraform and AWS
-
-### devops-automation-toolkit
-Python, PowerShell and Bash Automation
-
-### platform-reliability-lab
-Kubernetes, ArgoCD, Observability and SRE
-
-### qa-engineering-handbook
-Quality Engineering Leadership
+- Test Automation
+- Platform Engineering
+- DevOps
+- Cloud Native Technologies
+- Infrastructure as Code
+- Kubernetes
+- Observability
