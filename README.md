@@ -21,12 +21,20 @@ Kubernetes, Helm, ArgoCD, GitOps, Prometheus, Grafana
 
 ➡️ https://github.com/hugotorrescoronado/kubernetes-platform-lab
 
+### 🔹 DevOps Automation Toolkit
+Python, PowerShell, Bash, GitHub Actions, AWS Reporting, Health Monitoring, Log Analysis, DevSecOps
+
+➡️ https://github.com/hugotorrescoronado/devops-automation-toolkit
+
 ---
 
 ## 🛠️ Core Technologies
 
 - Playwright
 - Selenium
+- Python
+- PowerShell
+- Bash
 - AWS
 - Terraform
 - Kubernetes
@@ -36,6 +44,8 @@ Kubernetes, Helm, ArgoCD, GitOps, Prometheus, Grafana
 - GitHub Actions
 - Prometheus
 - Grafana
+- Bandit
+- GitLeaks
 
 ---
 
@@ -44,7 +54,10 @@ Kubernetes, Helm, ArgoCD, GitOps, Prometheus, Grafana
 - Test Automation
 - Platform Engineering
 - DevOps
+- DevSecOps
 - Cloud Native Technologies
 - Infrastructure as Code
 - Kubernetes
+- CI/CD Automation
 - Observability
+- Site Reliability Engineering
