@@ -1,8 +1,8 @@
 # Hugo Torres Coronado
 
-Senior Software Test Automation Engineer | SDET | DevOps Engineer | Platform Engineer | DevSecOps
+Senior Software Test Automation Engineer | SDET | DevOps Engineer | Platform Engineer | DevSecOps | SRE
 
-Building automation frameworks, cloud infrastructure, cloud-native platforms, CI/CD pipelines, and quality engineering solutions.
+Building automation frameworks, cloud infrastructure, cloud-native platforms, reliability engineering practices, CI/CD pipelines, and quality engineering solutions.
 
 ---
 
@@ -18,8 +18,27 @@ Modern test automation framework demonstrating:
 - API Testing
 - Docker
 - GitHub Actions
+- Test Automation Architecture
 
 ➡️ https://github.com/hugotorrescoronado/automation-framework-demo
+
+---
+
+### 🔹 QA Engineering Handbook
+
+Quality Engineering and Test Automation knowledge portal covering:
+
+- Test Strategy
+- Automation Architecture
+- API Testing
+- Quality Metrics
+- Root Cause Analysis
+- CI/CD Testing
+- Quality Engineering Best Practices
+- SDET Practices
+- GitHub Pages Documentation
+
+➡️ https://github.com/hugotorrescoronado/qa-engineering-handbook
 
 ---
 
@@ -33,6 +52,7 @@ Cloud Infrastructure as Code project demonstrating:
 - ALB
 - Auto Scaling
 - Multi-AZ RDS
+- High Availability
 - DevSecOps Practices
 
 ➡️ https://github.com/hugotorrescoronado/terraform-cloud-lab
@@ -50,6 +70,7 @@ Cloud-native platform engineering project demonstrating:
 - Prometheus
 - Grafana
 - Observability
+- Platform Engineering
 
 ➡️ https://github.com/hugotorrescoronado/kubernetes-platform-lab
 
@@ -74,26 +95,27 @@ DevOps and DevSecOps automation project demonstrating:
 
 ---
 
-### 🔹 QA Engineering Handbook
+### 🔹 Platform Reliability Lab
 
-Quality Engineering and Test Automation knowledge portal covering:
+Site Reliability Engineering and Reliability Engineering knowledge portal demonstrating:
 
-- Test Strategy
-- Automation Architecture
-- API Testing
-- Quality Metrics
-- Root Cause Analysis
-- CI/CD Testing
-- Quality Engineering Best Practices
-- SDET Practices
+- Service Level Indicators (SLIs)
+- Service Level Objectives (SLOs)
+- Error Budgets
+- Incident Management
+- Blameless Postmortems
+- Production Readiness Reviews
+- Monitoring & Alerting
+- Observability
+- Operational Excellence
 
-➡️ https://github.com/hugotorrescoronado/qa-engineering-handbook
+➡️ https://github.com/hugotorrescoronado/platform-reliability-lab
 
 ---
 
 ## 🛠️ Core Technologies
 
-### Test Automation
+### Test Automation & Quality Engineering
 
 - Playwright
 - Selenium
@@ -101,6 +123,8 @@ Quality Engineering and Test Automation knowledge portal covering:
 - Python
 - TypeScript
 - API Testing
+- Quality Engineering
+- SDET Practices
 
 ### DevOps & Platform Engineering
 
@@ -111,6 +135,7 @@ Quality Engineering and Test Automation knowledge portal covering:
 - Helm
 - ArgoCD
 - GitOps
+- CI/CD
 
 ### Cloud & Infrastructure
 
@@ -120,13 +145,18 @@ Quality Engineering and Test Automation knowledge portal covering:
 - EKS
 - RDS
 - ALB
+- Cloud Architecture
 
-### Observability
+### Observability & Reliability
 
 - Prometheus
 - Grafana
 - Monitoring
 - Alerting
+- Incident Management
+- SLOs / SLIs
+- Error Budgets
+- Site Reliability Engineering
 
 ### DevSecOps
 
@@ -135,6 +165,7 @@ Quality Engineering and Test Automation knowledge portal covering:
 - Dependabot
 - Security Scanning
 - Secure CI/CD
+- Security Automation
 
 ---
 
@@ -152,7 +183,9 @@ Quality Engineering and Test Automation knowledge portal covering:
 - GitOps
 - CI/CD Automation
 - Site Reliability Engineering (SRE)
+- Reliability Engineering
 - Observability
+- Operational Excellence
 
 ---
 
@@ -168,9 +201,11 @@ Building practical engineering projects that demonstrate:
 
 ✅ DevSecOps
 
+✅ Platform Engineering
+
 ✅ Cloud Infrastructure
 
-✅ Platform Engineering
+✅ Infrastructure as Code
 
 ✅ Kubernetes
 
@@ -178,6 +213,31 @@ Building practical engineering projects that demonstrate:
 
 ✅ CI/CD
 
+✅ Site Reliability Engineering
+
+✅ Reliability Engineering
+
 ✅ Observability
 
+✅ Operational Excellence
+
 ---
+
+## 💼 Engineering Domains Covered
+
+| Domain | Repository |
+|----------|------------|
+| Test Automation | automation-framework-demo |
+| Quality Engineering | qa-engineering-handbook |
+| Cloud & IaC | terraform-cloud-lab |
+| Platform Engineering | kubernetes-platform-lab |
+| DevOps & DevSecOps | devops-automation-toolkit |
+| SRE & Reliability Engineering | platform-reliability-lab |
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/hugotorrescoronado
+
+Building modern engineering solutions across Quality Engineering, Platform Engineering, DevOps, DevSecOps, Cloud Infrastructure, and Site Reliability Engineering.
