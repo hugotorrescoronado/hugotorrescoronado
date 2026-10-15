@@ -235,9 +235,3 @@ Building practical engineering projects that demonstrate:
 | SRE & Reliability Engineering | platform-reliability-lab |
 
 ---
-
-## 📫 Connect
-
-GitHub: https://github.com/hugotorrescoronado
-
-Building modern engineering solutions across Quality Engineering, Platform Engineering, DevOps, DevSecOps, Cloud Infrastructure, and Site Reliability Engineering.
